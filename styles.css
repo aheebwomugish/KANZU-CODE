@@ -1,0 +1,56 @@
+/*inline, class,external styles sheet
+
+ /*class selector*/
+.nmax{
+    color: #FFC100;
+}
+.classA{
+    background-color: white;
+}
+.up{
+    color: black;
+}
+/*id selector*/
+.yours{
+    color: white;
+    font-size: 35px;
+}
+#welcome{
+    color: white;
+}
+#download{
+    background-color: #FFC100;
+}
+#action{
+    color: white;
+}
+.list1{
+    color: aliceblue;
+}
+
+#H1{
+    /*text-shadow: 2px 3px white;*/
+    color:#FFC100 ;
+    letter-spacing: 5px;
+   text-align: center;
+}
+body{
+    color:#FFC100 ;
+    font-family: "Reddit Mono", monospace;
+    background-color:#1C1678 ;
+    align-items: center;
+}
+p{
+    align-content: center;
+    line-height: 15px;
+    font-size: 20px;
+    color: #FFC100;
+}
+/*button{
+    color:yellow;
+}*/
+
+.image{
+    width: 190px;
+    height: 250px;
+}
